@@ -1,0 +1,4 @@
+pagesObjects\addCustomerInfo.class
+GenericFunctions\commonFunctions.class
+Runner\TestRunner.class
+StepDefinition\addCustomer.class

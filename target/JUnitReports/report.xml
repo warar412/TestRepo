@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="27.984">
+    <testcase classname="Add Customer Functionality" name="Add New Customer To MyBank" time="27.882">
+        <system-out><![CDATA[Given Login as a Bank Manager...............................................passed
+When Click Add Customer Tab.................................................passed
+Then Enter the Customer Details.............................................passed
+And Click the Add Customer Icon.............................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
